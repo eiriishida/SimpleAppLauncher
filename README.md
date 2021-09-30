@@ -16,7 +16,7 @@ c++ foo.cxx -o foo.exe -static
 MSYS2
 ```
 
-#### ADDITIONAL PACKAGES
+#### MSYS2 ADDITIONAL PACKAGES
 
 ```
 base-devel
